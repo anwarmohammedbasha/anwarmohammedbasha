@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Anwar 👋
 
-<!--
-**anwarmohammedbasha/anwarmohammedbasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Data Analyst • ETL engineer • Power BI enthusiast
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/your-username?label=follow\&style=social)](https://github.com/anwarmohammedbasha)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+I build reliable ETL pipelines, transform messy data into clear insights, and create dashboards that help teams make decisions. I enjoy working with SQL, Python, and Power BI to turn business questions into measurable actions.
+
+* 📍 Chennai, India
+* 💼 Current focus: ETL automation, data validation, dashboards, and analytics at scale
+* 🧰 Toolbox: Python, SQL, pandas, Power Query, Power BI, Git, Docker, Airflow
+* 💬 Languages: English, Tamil, Hindi
