@@ -2,8 +2,6 @@
 
 > Data Analyst • ETL engineer • Power BI enthusiast
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=follow\&style=social)](https://github.com/anwarmohammedbasha)
-
 ## About me
 
 I build reliable ETL pipelines, transform messy data into clear insights, and create dashboards that help teams make decisions. I enjoy working with SQL, Python, and Power BI to turn business questions into measurable actions.
