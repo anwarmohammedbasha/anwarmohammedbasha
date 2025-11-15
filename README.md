@@ -1,6 +1,6 @@
 # Hi, I’m Anwar 👋
 
-> Data Analyst • ETL engineer • Power BI enthusiast
+> Data Analyst • ETL engineer • Power BI 
 
 ## About me
 
@@ -9,4 +9,3 @@ I build reliable ETL pipelines, transform messy data into clear insights, and cr
 * 📍 Chennai, India
 * 💼 Current focus: ETL automation, data validation, dashboards, and analytics at scale
 * 🧰 Toolbox: Python, SQL, pandas, Power Query, Power BI, Git, Docker, Airflow
-* 💬 Languages: English, Tamil, Hindi
